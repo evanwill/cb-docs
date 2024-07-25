@@ -16,6 +16,11 @@ Download VS Code and use their wizard to install with the default options on you
 If you are unfamiliar with editors, there is pretty good [VS Code documentation](https://code.visualstudio.com/docs) including videos and reference, but you will learn a lot just working through you CB project!
 These docs will often reference VS Code.
 
+*Note to Mac users:*
+On macOS Sierra or later, VS Code automatically downloads to the Downloads directory, which can cause problems with updates down the road.
+If this applies to you, after installation we recommend moving the VS Code app from Downloads to your Applications directory.
+{:.alert .alert-blue}
+
 ## Configuring Visual Studio Code
 
 VS Code has a tremendous number of extensions that can be added to enhance its functionality. 
